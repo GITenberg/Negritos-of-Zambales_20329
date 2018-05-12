@@ -1,0 +1,27 @@
+_repo: Negritos-of-Zambales_20329
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, William Allan
+    gutenberg_agent_id: '9235'
+    url: http://www.gutenberg.org/2009/agents/9235
+description: ''
+gutenberg_issued: '2007-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20329'
+  lccn: '05035501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcc 'DS'
+- !lcsh 'Ethnology -- Philippines -- Zambales'
+- !lcsh 'Aeta (Philippine people)'
+title: Negritos of Zambales
+url: http://www.gutenberg.org/ebooks/20329
